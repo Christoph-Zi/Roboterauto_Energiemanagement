@@ -1,0 +1,4 @@
+../Core/Src/i2c.c:36:9:I2C_Scanner	24	static
+../Core/Src/i2c.c:65:1:I2C_Read_Register	24	static
+../Core/Src/i2c.c:92:6:I2C_Read_FIFO	16	static
+../Core/Src/i2c.c:118:6:I2C_Write_Register	24	static

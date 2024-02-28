@@ -1,0 +1,16 @@
+../Drivers/TOF/platform/src/vl53lx_platform.c:83:5:_I2CWrite	1
+../Drivers/TOF/platform/src/vl53lx_platform.c:105:5:_I2CRead	1
+../Drivers/TOF/platform/src/vl53lx_platform.c:118:14:VL53LX_WriteMulti	3
+../Drivers/TOF/platform/src/vl53lx_platform.c:137:14:VL53LX_ReadMulti	3
+../Drivers/TOF/platform/src/vl53lx_platform.c:158:14:VL53LX_WrByte	2
+../Drivers/TOF/platform/src/vl53lx_platform.c:175:14:VL53LX_WrWord	2
+../Drivers/TOF/platform/src/vl53lx_platform.c:193:14:VL53LX_WrDWord	2
+../Drivers/TOF/platform/src/vl53lx_platform.c:211:14:VL53LX_UpdateByte	2
+../Drivers/TOF/platform/src/vl53lx_platform.c:225:14:VL53LX_RdByte	3
+../Drivers/TOF/platform/src/vl53lx_platform.c:246:14:VL53LX_RdWord	3
+../Drivers/TOF/platform/src/vl53lx_platform.c:271:14:VL53LX_RdDWord	3
+../Drivers/TOF/platform/src/vl53lx_platform.c:296:14:VL53LX_GetTickCount	1
+../Drivers/TOF/platform/src/vl53lx_platform.c:349:14:VL53LX_GetTimerFrequency	1
+../Drivers/TOF/platform/src/vl53lx_platform.c:358:14:VL53LX_WaitMs	1
+../Drivers/TOF/platform/src/vl53lx_platform.c:364:14:VL53LX_WaitUs	1
+../Drivers/TOF/platform/src/vl53lx_platform.c:370:14:VL53LX_WaitValueMaskEx	11

@@ -1,0 +1,10 @@
+../Drivers/Bluetooth/Src/bluefruit_controller.c:34:12:bluefruit_controller_command_query	3
+../Drivers/Bluetooth/Src/bluefruit_controller.c:53:13:bluefruit_controller_status_reset	1
+../Drivers/Bluetooth/Src/bluefruit_controller.c:64:13:bluefruit_controller_status_add_byte	2
+../Drivers/Bluetooth/Src/bluefruit_controller.c:78:12:bluefruit_controller_status_crc_okay	2
+../Drivers/Bluetooth/Src/bluefruit_controller.c:93:13:bluefruit_event_handlers_reset	1
+../Drivers/Bluetooth/Src/bluefruit_controller.c:101:6:bluefruit_controller_init	1
+../Drivers/Bluetooth/Src/bluefruit_controller.c:110:13:bluefruit_controller_update_byte	9
+../Drivers/Bluetooth/Src/bluefruit_controller.c:171:6:bluefruit_controller_update	3
+../Drivers/Bluetooth/Src/bluefruit_controller.c:197:6:handle_buttons_raw	2
+../Drivers/Bluetooth/Src/bluefruit_controller.c:209:6:handle_gyroscope_raw	2

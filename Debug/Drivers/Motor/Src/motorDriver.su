@@ -1,0 +1,3 @@
+../Drivers/Motor/Src/motorDriver.c:12:6:setMotorSpeed	24	static
+../Drivers/Motor/Src/motorDriver.c:33:6:accelMotor	24	static
+../Drivers/Motor/Src/motorDriver.c:61:6:stopMotor	16	static

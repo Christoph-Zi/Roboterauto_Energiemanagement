@@ -1,0 +1,3 @@
+../Drivers/TOF/platform/src/TOF_driver.c:23:6:TOF_SensorInit	16	static
+../Drivers/TOF/platform/src/TOF_driver.c:62:6:TOF_Measurement	160	static,ignoring_inline_asm
+../Drivers/TOF/platform/src/TOF_driver.c:119:6:RangingLoop	160	static,ignoring_inline_asm

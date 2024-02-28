@@ -1,0 +1,3 @@
+../Drivers/Motor/Src/motorDriver.c:12:6:setMotorSpeed	2
+../Drivers/Motor/Src/motorDriver.c:33:6:accelMotor	3
+../Drivers/Motor/Src/motorDriver.c:61:6:stopMotor	2
